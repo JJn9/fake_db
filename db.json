@@ -16,35 +16,7 @@
           {
             "id": 1,
             "name": "Whopper",
-            "price": 8
-          }
-        ],
-        "extras": [
-          {
-            "id": 1,
-            "name": "frites",
-            "price": 2
-          }
-        ],
-        "drink": [
-          {
-            "id": 1,
-            "name": "Coca cola",
-            "price": 2
-          }
-        ]
-      }
-    },
-    {
-      "id": 2,
-      "name": "Otacos",
-      "img": "restaurants/otacos.jpeg",
-      "menu": {
-        "principal": [
-          {
-            "id": 1,
-            "name": "Tacos L",
-            "price": 6,
+            "price": 8,
             "img": "restaurants/whopper.png"
           }
         ],
@@ -62,6 +34,34 @@
             "name": "Coca cola",
             "price": 2,
             "img": "restaurants/coca.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Otacos",
+      "img": "restaurants/otacos.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Tacos L",
+            "price": 6
+          }
+        ],
+        "extras": [
+          {
+            "id": 1,
+            "name": "frites",
+            "price": 2
+          }
+        ],
+        "drink": [
+          {
+            "id": 1,
+            "name": "Coca cola",
+            "price": 2
           }
         ]
       }
