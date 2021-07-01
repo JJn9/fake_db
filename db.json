@@ -1,14 +1,67 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "ekip"
+    }
+  ],
   "restaurants": [
     {
       "id": 1,
       "name": "Burger_King",
-      "img": "restaurants/burgerking.jpeg"
+      "img": "restaurants/burgerking.jpeg",
+      "menu": {
+        "burgers": [
+          {
+            "id": 1,
+            "name": "Whopper",
+            "price": 8
+          }
+        ],
+        "extras": [
+          {
+            "id": 1,
+            "name": "frites",
+            "price": 2
+          }
+        ],
+        "drink": [
+          {
+            "id": 1,
+            "name": "Coca cola",
+            "price": 2
+          }
+        ]
+      }
     },
     {
       "id": 2,
       "name": "Otacos",
-      "img": "restaurants/otacos.jpeg"
+      "img": "restaurants/otacos.jpeg",
+      "menu": {
+        "tacos": [
+          {
+            "id": 1,
+            "name": "Tacos L",
+            "price": 6
+          }
+        ],
+        "extras": [
+          {
+            "id": 1,
+            "name": "frites",
+            "price": 2
+          }
+        ],
+        "drink": [
+          {
+            "id": 1,
+            "name": "Coca cola",
+            "price": 2
+          }
+        ]
+      }
     },
     {
       "id": 3,
