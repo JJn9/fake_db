@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Burger_King",
+    "img": "restaurants/burgerking.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Otacos",
+    "img": "restaurants/otacos.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "McDonalds",
+    "img": "restaurants/mcdonalds.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Subway",
+    "img": "restaurants/subway.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Cesi_Pizza",
+    "img": "restaurants/pizza.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Quick",
+    "img": "restaurants/quick.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Kebab",
+    "img": "restaurants/kebab.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Crêpes",
+    "img": "restaurants/crepes.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Pizza",
+    "img": "restaurants/pizza.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Burger",
+    "img": "restaurants/burger.jpeg"
+  }
+]
