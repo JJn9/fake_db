@@ -12,7 +12,7 @@
       "name": "Burger_King",
       "img": "restaurants/burgerking.jpeg",
       "menu": {
-        "burgers": [
+        "principal": [
           {
             "id": 1,
             "name": "Whopper",
@@ -40,7 +40,7 @@
       "name": "Otacos",
       "img": "restaurants/otacos.jpeg",
       "menu": {
-        "tacos": [
+        "principal": [
           {
             "id": 1,
             "name": "Tacos L",
