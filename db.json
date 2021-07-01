@@ -44,21 +44,24 @@
           {
             "id": 1,
             "name": "Tacos L",
-            "price": 6
+            "price": 6,
+            "img": "restaurants/whopper.png"
           }
         ],
         "extras": [
           {
             "id": 1,
             "name": "frites",
-            "price": 2
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
           }
         ],
         "drink": [
           {
             "id": 1,
             "name": "Coca cola",
-            "price": 2
+            "price": 2,
+            "img": "restaurants/coca.png"
           }
         ]
       }
