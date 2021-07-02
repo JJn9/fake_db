@@ -22,7 +22,7 @@
         ],
         "extras": [
           {
-            "id": 1,
+            "id": 2,
             "name": "frites",
             "price": 2,
             "img": "restaurants/frites_bk.png"
@@ -30,7 +30,7 @@
         ],
         "drink": [
           {
-            "id": 1,
+            "id": 3,
             "name": "Coca cola",
             "price": 2,
             "img": "restaurants/coca.png"
@@ -69,42 +69,250 @@
     {
       "id": 3,
       "name": "McDonalds",
-      "img": "restaurants/mcdonalds.jpeg"
+      "img": "restaurants/mcdonalds.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Whopper",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     },
     {
       "id": 4,
       "name": "Subway",
-      "img": "restaurants/subway.jpeg"
+      "img": "restaurants/subway.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Sandwich texas",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     },
     {
       "id": 5,
       "name": "Cesi_Pizza",
-      "img": "restaurants/pizza.jpeg"
+      "img": "restaurants/pizza.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Pizza Cesi",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     },
     {
       "id": 6,
       "name": "Quick",
-      "img": "restaurants/quick.jpeg"
+      "img": "restaurants/quick.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Giant",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     },
     {
       "id": 7,
       "name": "Kebab",
-      "img": "restaurants/kebab.jpeg"
+      "img": "restaurants/kebab.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Kebab",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     },
     {
       "id": 8,
       "name": "Crêpes",
-      "img": "restaurants/crepes.jpeg"
+      "img": "restaurants/crepes.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Crepe jambon fromage",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     },
     {
       "id": 9,
       "name": "Pizza",
-      "img": "restaurants/pizza.jpeg"
+      "img": "restaurants/pizza.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Pizza 4 fromages",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     },
     {
       "id": 10,
       "name": "Burger",
-      "img": "restaurants/burger.jpeg"
+      "img": "restaurants/burger.jpeg",
+      "menu": {
+        "principal": [
+          {
+            "id": 1,
+            "name": "Burger",
+            "price": 8,
+            "img": "restaurants/whopper.png"
+          }
+        ],
+        "extras": [
+          {
+            "id": 2,
+            "name": "frites",
+            "price": 2,
+            "img": "restaurants/frites_bk.png"
+          }
+        ],
+        "drink": [
+          {
+            "id": 3,
+            "name": "Coca cola",
+            "price": 2,
+            "img": "restaurants/coca.png"
+          }
+        ]
+      }
     }
   ]
 }
